@@ -1,0 +1,97 @@
+/* h1,h2,h3,h4,h5,h6{
+color:rgb(100,50,150) ;
+   color:#ff0000;
+} */
+*{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+   /* text-align: right; */
+   /* line-height: 8; */
+   /* text-decoration:overline red;
+   text-transform: lowercase; */
+   /* word-spacing:40px; */
+   /* text-decoration-line: overline;
+   text-decoration-color: brown; */
+   /* text-shadow: 10px 10px  10px red; */
+}
+/* .para1{
+   color: green;
+}
+.para2{
+   color: red;
+}
+.para3{
+   color: black;
+}
+.para5{
+   color: aquamarine;
+}
+#div{
+   background-color: brown;
+} */
+/* #div p a{
+   text-decoration: none;
+   color: chartreuse;
+   background-color: black;
+} */
+/* ul li{
+   background-color: aqua;
+} */
+/* .para1::first-line{
+     background-color: red;
+}
+.para1::first-letter{
+   background-color: aqua;
+}
+.para1::selection{
+   background-color: green;
+} */
+/* .para1::before{
+   content: "Thops Tech";
+}
+.para1::after{
+   content: "End";
+} */
+
+#div1{
+   /* height: 200px;
+   width: 200px;
+   border: 2px solid black; */
+   /* border-radius:50%; */
+   /* border-top-left-radius: 20px;
+   border-bottom-left-radius: 90px; */
+   /* border-radius: 10px; */
+   /* background-color: chartreuse; */
+   /* padding-left: 10px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 20px; */
+   /* border-width: 6px;
+   border-style:dotted;
+   border-color: brown; */
+   /* background-color: brown; */
+   /* overflow: scroll; */
+   /* margin-left: 700px;
+   margin-top: 400px;
+   margin-bottom:90px; */
+   /* padding: 10px;
+   margin: 30px; */
+   /* font-size: 90px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+.div1{
+   height: 200px;
+   width: 400px;
+   border: 2px solid black;
+   padding: 10px;
+  margin:auto;
+}
+.div2{
+   height: 200px;
+   width: 400px;
+   border: 2px solid black;
+   padding: 10px;
+   margin: auto;
+ 
+}
