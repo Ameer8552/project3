@@ -1,4 +1,0 @@
-Let a=1;
-let b=2;
-concole.log(a+b)
-concole.log(a-b)
